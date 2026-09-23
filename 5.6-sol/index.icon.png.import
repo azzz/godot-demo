@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ccsfq13mfo8hr"
-path="res://.godot/imported/little-big-fleet-5.6sol.icon.png-443083bff026c253fb30e78ead4489c7.ctex"
+uid="uid://dm4jl3fxg3t30"
+path="res://.godot/imported/index.icon.png-6272a42b0d4d6eb27c457245cd053459.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://release/web/5.6-sol/little-big-fleet-5.6sol.icon.png"
-dest_files=["res://.godot/imported/little-big-fleet-5.6sol.icon.png-443083bff026c253fb30e78ead4489c7.ctex"]
+source_file="res://release/web/5.6-sol/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-6272a42b0d4d6eb27c457245cd053459.ctex"]
 
 [params]
 
